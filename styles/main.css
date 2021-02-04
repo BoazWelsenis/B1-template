@@ -181,6 +181,9 @@ button{
   height: 64px;
 }
 
+tfoot tr td{
+  max-width: 1px;
+}
 .sidy-by-side{
 }
 
