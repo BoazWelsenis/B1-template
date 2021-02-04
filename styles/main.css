@@ -184,7 +184,11 @@ button{
 tfoot tr td{
   max-width: 1px;
 }
+
 .sidy-by-side{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .description{
